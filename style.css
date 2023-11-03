@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Mukta:wght@200;300;400;500;600;700;800&display=swap');
+
+*{
+    font-family: 'Mukta', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.col{
+    max-height: 600px;
+}
+#faze{
+    color: #dd3131;
+}
+.card{
+    background-image: url("https://img.freepik.com/free-vector/topographic-map-background_23-2148596457.jpg?w=900&t=st=1699038479~exp=1699039079~hmac=a4659f3fc2ea8c935fd0e9ff44c7d85ad7b41bf3631f15e61af29de2ef726c22");
+    z-index: -2;
+}
+.card-footer{
+    text-align: center;
+    position: relative;
+    bottom: 320px;
+}
+.card-body{
+    position: relative;
+    bottom: 500px;
+}
+.faze-background-logo{
+    opacity: .25;
+    z-index: -1;
+    width: 300%;
+    position: relative;
+    right: 336px;
+    bottom: 20px;
+}
+.boston-background-logo{
+    opacity: .25;
+    width: 200%;
+    position: relative;
+    right: 200px;
+    bottom: 105px;
+}
+#boston-logo{
+    position: relative;
+    bottom: 220px;
+}
+#boston-body{
+    position: relative;
+    bottom: 765px;
+}
+#breach{
+    color: #01ff5c;
+}
+#breach-footer{
+    position: relative;
+    bottom: 610px;
+}
+.carolina-background-logo{
+    opacity: .25;
+    width: 200%;
+    position: relative;
+    right: 160px;
+    bottom: 255px;
+}
+#ravens-logo{
+    position: relative;
+    bottom: 350px;
+}
+#carolina-body{
+    position: relative;
+    bottom: 770px;
+}
+#ravens{
+    color: #0083c1;
+}
+#ravens-footer{
+    position: relative;
+    bottom: 610px;
+}
+.ny-background-logo{
+    opacity: .25;
+    width: 150%;
+    position: relative;
+    right: 85px;
+    bottom: 100px;
+}
+#sub-logo{
+    position: relative;
+    bottom: 350px;
+}
+#ny-body{
+    position: relative;
+    bottom: 580px;
+}
+#sub{
+    color: #fff000;
+}
+#sub-footer{
+    position: relative;
+    bottom: 440px;
+}
